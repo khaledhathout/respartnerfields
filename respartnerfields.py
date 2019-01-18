@@ -7,6 +7,7 @@ from openerp import models, fields, api
 #     _name = 'respartnerfields.respartnerfields'
 
 #     name = fields.Char()
+# explain what you need
 
 class respartnerfields(models.Model):
     _name = 'res.partner'
